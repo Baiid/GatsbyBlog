@@ -9,9 +9,7 @@ const Navbar = () => {
 
   return (
     <Navigation>
-//     <LogoW>
-//    <a href="/"><LogoS to="/" src={Logo}/></a>
-//    </LogoW>
+
       <Toggle
         navbarOpen={navbarOpen}
         onClick={() => setNavbarOpen(!navbarOpen)}
