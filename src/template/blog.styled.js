@@ -49,36 +49,6 @@ padding: 0 15rem;
     float:inherit;
 }
 }
-${'' /* text-align:center;
 
-
-
-
-
-
-
-
-h1{
-    font-size:4rem;
-}
-p{
- color:#DFE1E0;
- padding:0 15rem ;
- 
-}
-
-.right{
-    float:right;
-    margin:40px 0 68px 60px
-}
-
-@media screen and (min-width:1000px){
-    .right{
-        float:none;
-        width:90%;
-        display:block;
-        margin:0 auto;
-    }
-} */}
 
 `
